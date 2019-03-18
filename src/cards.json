@@ -26,7 +26,7 @@
   },
   {
     "id": 7,
-    "image": "https://images.pexels.com/photos/753869/pexels-photo-753869.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "image": "images/pexels-photo-753869.png"
   },
   {
     "id": 8,
@@ -50,7 +50,7 @@
   },
   {
     "id": 12,
-    "image": "https://images.pexels.com/photos/216657/pexels-photo-216657.jpeg?cs=srgb&dl=bright-close-up-color-216657.jpg&fm=jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "image": "images/bright-close-up-color-216657.jpg"
 
   }
 
